@@ -145,4 +145,4 @@ function userName(name, surname) {
   console.log(userFirst + surName + tellExactNumber);
 }
 
-userName("Cristina", "Gámez");
+userName("Cristina", "Hernández");
